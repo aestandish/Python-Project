@@ -11,5 +11,5 @@ pip install -r requirements.txt
 ```
 To clone this repository, run:
 ```
-git clone 
+git clone https://github.com/aestandish/Python-Project.git
 ```
