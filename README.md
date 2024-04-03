@@ -1,6 +1,6 @@
 # U.S. DoE Generation and Emissions in Python Dash
 
-This Python dash app is designed to provide simple visuals that allow the user to analyze U.S. power generation and carbon emissions.
+This Python dash app is designed to provide simple visuals that allow the user to analyze U.S. power generation and carbon emissions data, collected from a public Department of Energy dataset.
 
 ## Getting Started
 To install the app's dependencies in a virtual environment, run the following code:
