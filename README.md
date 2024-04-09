@@ -15,7 +15,7 @@ To clone this repository, run:
 git clone https://github.com/aestandish/Python-Project.git
 ```
 
-## Running the App:
+## Running the App
 In the Python-Project directory, run:
 ```
 python app.py
