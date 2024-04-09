@@ -8,7 +8,7 @@ To install the app's dependencies in a virtual environment, run the following co
 pip install virtualenv
 python<version> -m venv venv 
 source venv/bin/activate  # Windows: \venv\scripts\activate
-pip install -r requirements.txt
+pip install -r requirements.txt # run in Python-Project after cloning repo
 ```
 To clone this repository, run:
 ```
